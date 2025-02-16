@@ -17,14 +17,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
-❒ _NOW DEPLOY IT_
+❒ *LLW-MD*
+❒ _THANKS FOR USING LLW MD V1_
 └────────────⭓
 ┌───⭓
-❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒  • LLW MD INFO •
+❒ *LLW MD REPO:* __https://github.com/MRLLW/LLW-MD_
+❒ *CONTACT LLW:* _wa.me/94705564619_
+❒ *LLW YT CHANNEL:* _https://youtube.com/@GAMINGLLWFF_
 └────────────⭓
 `
 
