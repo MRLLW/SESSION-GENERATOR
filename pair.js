@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_Pair Code Connectected by LLW MD V1*
+*_USE THE SESSION ID TO DEPLOY LLW MD✅_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『 LLW MD V1 』*
+║ _THANKS FOR USING LLW MD BOT._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║  『••• LLW BOT INFO •••』
+║❒ *LLW YT CHANNEL:* _youtube.com/@GAMINGLLWFF_
+║❒ *CONTACT LLW:* _https://wa.me/94705564619_
+║❒ *LLW MD REPO:* _https://github.com/MRLLW/LLW-MD
+║❒ *LLW MD GROUP:* _https://chat.whatsapp.com/LhjB2cADDyS8faloLh9oe5
+║❒ *LLW MD WA CHANNEL:* _https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R
+║❒ *LLW PROFILE:* _https://github.com/MRLLW_
 ╚════════════════════════╝
 _____________________________________
 
