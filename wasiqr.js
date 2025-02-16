@@ -63,17 +63,17 @@ router.get('/', async (req, res) => {
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『THANKS FOR PAIRING LLW MD V1』*
+║ _USE THE SESSION ID TO DEPLOY LLW MD V1._
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║  『••• LLW MD INFO •••』
+║❒ *LLW MD YT:* _youtube.com/@GAMINGLLWFF_
+║❒ *CONTACT LLW:* _https://wa.me/94705564619_
+║❒ *LLW MD REPO:* _https://github.com/MRLLW/LLW-MD_
+║❒ *LLW MD GROUP:* _https://chat.whatsapp.com/LhjB2cADDyS8faloLh9oe5_
+║❒ *LLW MD WHATSAPP CHANNEL:* _https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R_
+║❒ *LLW PROFILE:* _https://github.com/MRLLW_
 ╚════════════════════════╝
 _____________________________________
 	
