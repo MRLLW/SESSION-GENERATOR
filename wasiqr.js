@@ -59,8 +59,8 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
-*_Made With 🤍_*
+*_Session Connected by LLW MD V1_*
+*_THANKS FOR USING LLW MD✅_*
 ______________________________________
 ╔════◇
 ║ *『THANKS FOR PAIRING LLW MD V1』*
